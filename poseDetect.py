@@ -1,4 +1,7 @@
 import cv2
+from PoseModule import poseDetector
+
+detector = poseDetector()
 
 cap = cv2.VideoCapture(0)
 
@@ -8,7 +11,9 @@ while True:
     if not ret:
         break
 
-    cv2.imshow("Pose Detection", frame)
+    image = detector.findPose(frame, draw=True) 
+
+    cv2.imshow("Pose Detection", image)
 
     if cv2.waitKey(10) & 0xFF == ord('q'):
         break
