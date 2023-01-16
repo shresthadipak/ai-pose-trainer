@@ -3,7 +3,6 @@ import time
 import numpy as np
 from PoseModule import poseDetector
 from PoseAnalysis import poseEvaluate
-import matplotlib.pyplot as plt
 
 WINDOW_NAME = 'Pose Tracking'
 
