@@ -4,5 +4,12 @@ AI Pose Trainer is an application where you can remotely use it and make confirm
 # Install Dependencies
 $ pip3 install mediapipe
 
+# Mediapipe Pose Landmark Model (BlazePose GHUM 3D)
+The landmark model in MediaPipe Pose predicts the location of 33 pose landmarks (see figure below).
+/pose_tracking_full_body_landmarks.png
+
+# Posture Correction Output
+### Bicep Curl
+
 # License
 The MIT License (MIT). Please see License File for more information.
