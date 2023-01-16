@@ -14,8 +14,13 @@ AI Pose Trainer is an application where you can remotely use it and make confirm
 The landmark model in MediaPipe Pose predicts the location of 33 pose landmarks (see figure below).
 ![This is an image](/pose_tracking_full_body_landmarks.png)
 
+
 # Posture Correction Output
 ### Bicep Curl
+Please click to watch the output: [Bicep curl](/Posture%20Correction%20Output/bicep_curl.avi) 
+
+### Shoulder Press
+Please click to watch the output: [Shoulder press](/Posture%20Correction%20Output/shoulder_press.avi) 
 
 # License
 The MIT License (MIT). Please see License File for more information.
