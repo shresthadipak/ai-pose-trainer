@@ -23,4 +23,4 @@ Please click to watch the output: [Bicep curl](/Posture%20Correction%20Output/bi
 Please click to watch the output: [Shoulder press](/Posture%20Correction%20Output/shoulder_press.avi) 
 
 # License
-The MIT License (MIT). Please see License File for more information.
+The MIT License (MIT). Please see [License File](/LICENSE) for more information.
